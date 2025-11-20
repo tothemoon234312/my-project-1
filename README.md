@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 
 <style>
@@ -78,4 +78,4 @@ body {
 
 
 </body>
-</html>
+
