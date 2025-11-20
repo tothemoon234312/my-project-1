@@ -44,9 +44,9 @@ body {
 <!--header-->
 <body style = "background-color:#CFC0C0">
 	<div class="navbar">
-    <a class"active" href ="https://tothemoon234312.github.io/project-2/#register-here">Login</a>
-	<a class"active" href ="https://tothemoon234312.github.io/project-2/#register-here">home</a>
-    <a class"active" href ="https://tothemoon234312.github.io/project-2/#register-here">scammer</a>
+    <a class"active" href ="#">Login</a>
+	<a class"active" href ="#">home</a>
+    <a class"active" href ="#>scammer</a>
     </div>
    <div class="card">
     <h1> What is the purpose for the website?</h1>
