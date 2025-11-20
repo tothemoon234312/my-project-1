@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 
 
 <style>
@@ -29,6 +29,10 @@ body {
   text-decoration: none;/*how text look and behaves*/
 }
 
+.active {
+  background-color: #09256f;
+  color: white;
+}
 
 .card /*for each box in the text*/{
   background-color: #FFEFED;
@@ -44,9 +48,9 @@ body {
 <!--header-->
 <body style = "background-color:#CFC0C0">
 	<div class="navbar">
-    <a class"active" href ="#">Login</a>
-	<a class"active" href ="#">home</a>
-    <a class"active" href ="#>scammer</a>
+    <a class"active" href ="https://tothemoon234312.github.io/project-2/#register-here">Login</a>
+	<a class"active" href ="https://tothemoon234312.github.io/project-2/#register-here">home</a>
+    <a class"active" href ="https://tothemoon234312.github.io/project-2/#register-here">scammer</a>
     </div>
    <div class="card">
     <h1> What is the purpose for the website?</h1>
@@ -78,4 +82,4 @@ body {
 
 
 </body>
-
+</html>
