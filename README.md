@@ -54,7 +54,7 @@ text-align:justify;}
 .container {
  display: flex;
   justify-content: center;
-  aligh-items: center;
+  align-items: center;
   margin-top: -50px;
 }
 
@@ -76,6 +76,7 @@ text-align:justify;}
   z-index: 10;
   width: 80%;
 }
+  
 </style>
 </head>
 
@@ -95,7 +96,7 @@ text-align:justify;}
     </div>
   </div>
         </div>
-    </div>
+   
 
 
    <div class="card">
