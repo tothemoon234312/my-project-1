@@ -7,8 +7,16 @@ body {
   margin: 0;
   background-color: #CFC0C0;
 }
-h1 {color:#2a52be; font-family:sans-serif; font-size:28pt; text-align:center; text-shadow: 3px 3px 6px #8c92ac;}
-p  {font-family:Verdana; font-size: 12pt; color:#000000; text-align:justify;}
+h1 {color:#2a52be; 
+font-family:sans-serif; 
+font-size:28pt; 
+text-align:center; 
+text-shadow: 3px 3px 6px #8c92ac;
+}
+p  {font-family:sans-serif;
+font-size: 12pt; 
+color:#000000; 
+text-align:justify;}
 
 .navbar {
   overflow: hidden;
@@ -43,6 +51,18 @@ p  {font-family:Verdana; font-size: 12pt; color:#000000; text-align:justify;}
   padding: 20px;
   margin: 20px 5px;
 }
+.container {
+ display: flex;
+  justify-content: center;
+  aligh-items: center;
+  margin-top: 5px;
+}
+
+.container_bg img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
 
 </style>
 </head>
@@ -54,6 +74,13 @@ p  {font-family:Verdana; font-size: 12pt; color:#000000; text-align:justify;}
         <a class="active" href="https://tothemoon234312.github.io/my-project-1/">home</a>
         <a class="active" href="#">scammer</a>
     </div>
+      <div class="container">
+        <div class="container_bg">
+            <img src="https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+                 alt="hacker image">
+        </div>
+    </div>
+
 
    <div class="card">
     <h1> What is the purpose for the website?</h1>
@@ -74,7 +101,7 @@ p  {font-family:Verdana; font-size: 12pt; color:#000000; text-align:justify;}
     </div>
     
     <div class="card">
-      <h1 style="max-width: 600px; margin: 0 auto;">Why we need to stay informed</h1>
+      <h1 style="max-width: 600px; margin: 0 auto;">Why we need to stay informed?</h1>
      
       <p style="font-size:22px;">Cybercrime is increasing every year, and anyone can be targeted — students, adults, the elderly, and even companies. Scammers usually focus on people who do not understand online dangers, which makes it easier for them to steal information or money.
       </p>
