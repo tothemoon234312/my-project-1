@@ -63,7 +63,19 @@ text-align:justify;}
   height: auto;
   object-fit: cover;
 }
-
+.image-text {
+  position: absolute;
+  top: 30%;            
+  left: 50%;            
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 60px;
+  font-weight: bold;
+  text-shadow: 4px 4px 5px black;
+  text-align: center;
+  z-index: 10;
+  width: 80%;
+}
 </style>
 </head>
 
@@ -78,6 +90,10 @@ text-align:justify;}
         <div class="container_bg">
             <img src="https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
                  alt="hacker image">
+                 
+                <div class="image-text"> Be Safe From Online Scammers
+    </div>
+  </div>
         </div>
     </div>
 
