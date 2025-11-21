@@ -55,7 +55,7 @@ text-align:justify;}
  display: flex;
   justify-content: center;
   aligh-items: center;
-  margin-top: 5px;
+  margin-top: -50px;
 }
 
 .container_bg img {
@@ -103,7 +103,7 @@ text-align:justify;}
     <div class="card">
       <h1 style="max-width: 600px; margin: 0 auto;">Why we need to stay informed?</h1>
      
-      <p style="font-size:22px;">Cybercrime is increasing every year, and anyone can be targeted — students, adults, the elderly, and even companies. Scammers usually focus on people who do not understand online dangers, which makes it easier for them to steal information or money.
+      <p style="font-size:22px;">Cybercrime is increasing every year, and anyone can be targeted such as students, adults, the elderly, and even companies. Scammers usually focus on people who do not understand online dangers, which makes it easier for them to steal information or money.
       </p>
       <p style="font-size:22px;">This is why it is important to understand how scams work, be able to recognize suspicious messages or fake websites, and protect our devices and personal information. We also need to think carefully before clicking any link or sharing any data online. By staying informed, we can reduce the risk of becoming a victim and help keep others safe as well.</p>
     </div>
